@@ -51,9 +51,9 @@ What my project does:
 
 ### 📫 Contact Me
 
-- School: [D.R high school]
+- School: D.R high school
 - Class: 10th
--8554084974
+- Contact:8554084974
 
 ---
 
@@ -69,8 +69,8 @@ Learning Python - 2026
 
 
 
-# Student Report Card Generator
-# Made by - Class 10th Student
-# Date - 22 Oct 2026
-# This program makes report card for students
+Student Report Card Generator
+Made by - Class 10th Student
+Date - 22 Oct 2026
+This program makes report card for students
 
