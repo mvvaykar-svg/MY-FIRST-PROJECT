@@ -36,9 +36,7 @@ What my project does:
 
 ### 🛠️ Languages I know
 
-- Python (Learning)
-- HTML (Basic)
-- Scratch
+- Python (learning)
 
 ---
 
@@ -53,8 +51,9 @@ What my project does:
 
 ### 📫 Contact Me
 
-- School: [Tera School Ka Naam]
+- School: [D.R high school]
 - Class: 10th
+-8554084974
 
 ---
 
